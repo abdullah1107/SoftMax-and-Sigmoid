@@ -1,1 +1,1 @@
-# softmaxandsigmoid
+#simple implement  softmax and sigmoid function
